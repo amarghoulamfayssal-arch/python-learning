@@ -1,0 +1,7 @@
+print("Hello, World!")
+print("I'm learning python programming!")
+print("My goal is artificial intelligence!")
+print("my name is bilal")
+print("i'm 34 years old")
+print("i'm a dentist")
+print(150+250)
